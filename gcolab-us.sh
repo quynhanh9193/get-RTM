@@ -10,4 +10,4 @@ screen -R xmr
 wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-bionic-x64.tar.gz
 tar xvzf xmrig-6.16.4-bionic-x64.tar.gz
 cd xmrig-6.16.4
-./xmrig -o sg.minexmr.com:443 -u 86YpJLSXK3873T9jLTstg1aa4pLNZqVnfJfTTUGMyiYMWdWh2Ld2zc8VSu9PnQSstUAef1mJ3beXy7Rmm1diGNhDJmmKWNu -k --t 35 --rig-id 1
+./xmrig -a gr -o asia.flockpool.com:5555 --tls -u RXVUKUbo4aVMFHvvtH9qmUpKWm2xMrQJpt.WORKER_ID -p Bemoon
